@@ -19,11 +19,11 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴀɴᴅʀʏQɴɪɴᴇ" //nama kalian
+global.ownername= "𝘼𝙣𝙙𝙧𝙮𝙬𝞪" //nama kalian
 global.myweb ="https://www.facebook.com/andry03stt" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCG887zXkJ7TYMwPAULTMolQ" //bebas asal jan hapus
 global.github = "https://github.com/AndryQnn" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.email = "andrywa906@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6285894148101" // nomor wa kalian
 global.ownernomerr = "+6285894148101" //nmr wa kalian
@@ -32,7 +32,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6285894148101","6285894148101","6285894148101"] //ganti agar fitur owner bisa di gunakan
 global.packname = 'Punya Andry' //sticker wm ubah
-global.author = 'Gamteng banget gweh' //sticker wm ganti nama kalian
+global.author = 'Cieee mau nyolong' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: 'Done, Oke Desu~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
