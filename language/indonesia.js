@@ -781,7 +781,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}rose
 
 ╭─❒ 「 TqTo 」 
-├ My God
+├ Andrywa
 ├ My Parents
 ├ Fatih A.
 ├ Ferdi
@@ -842,7 +842,7 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Beban Group Berkurang 1 >.<
 Goodbye`
 }
 exports.source = () =>{
